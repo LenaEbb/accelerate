@@ -93,9 +93,16 @@ padding: 30px;
 
 .recent-posts {
 	float: left;
+	margin-left: 165px;
 }
 
 div.case-study-images img {
 	width: 100%;
 	height: auto;
+}
+ul.homepage-featured-work {
+	display: inline-flex;
+}
+div.site-content {
+	display: block;
 }

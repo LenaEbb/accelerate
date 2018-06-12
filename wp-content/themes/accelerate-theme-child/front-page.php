@@ -40,7 +40,9 @@ get_header(); ?>
 			      <li class="individual-featured-work">
 			      <figure>
 							   <?php echo wp_get_attachment_image($image_1, $size); ?>
-		      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></h3>
+						</figure>
+		      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+
 					 </li>
        <?php endwhile; ?>
        <?php wp_reset_query(); ?>

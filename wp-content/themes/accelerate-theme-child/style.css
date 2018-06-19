@@ -106,3 +106,13 @@ ul.homepage-featured-work {
 div.site-content {
 	display: block;
 }
+ul.social-media-menu li {
+	display: inline-block;
+	line-height: 1.5em;
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 50%;
+	text-align: center;
+	color: #fff;
+	background: #3b3b3b;
+}

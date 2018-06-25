@@ -103,7 +103,7 @@ div.case-study-images img {
 ul.homepage-featured-work {
 	display: inline-flex;
 }
-div.site-content {
+.home div.site-content {
 	display: block;
 }
 ul.social-media-menu li {
@@ -118,4 +118,19 @@ ul.social-media-menu li {
 }
 ul.social-media-menu li a {
     color: #fff;
+}
+.nf-form-fields-required {
+	display: none;
+}
+.ninja-forms-req-symbol {
+	display: none;
+}
+div.main-content {
+	width: 70%;
+	margin: auto;
+}
+
+#nf-field-4 {
+	float: right;
+	background-color: #45ac9d;
 }

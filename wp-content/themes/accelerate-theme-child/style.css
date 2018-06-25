@@ -29,7 +29,7 @@ Text Domain:  accelerate-theme-child
 }
 .blog-post {
 	width: 50%;
-	float:left;
+  margin-left: 4em;
 	margin-bottom: 2em;
 }
 .blog-post h4 {
@@ -92,7 +92,7 @@ padding: 30px;
 }
 
 .recent-posts {
-	float: left;
+float: left;
 	margin-left: 165px;
 }
 
